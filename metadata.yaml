@@ -1,0 +1,24 @@
+_repo: An-Apostate--Nawin-of-Thais_25730
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sills, Steven David Justin
+    gutenberg_agent_id: '1500'
+    url: http://www.gutenberg.org/2009/agents/1500
+description: ''
+gutenberg_issued: '2008-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25730'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: 'An Apostate: Nawin of Thais'
+url: http://www.gutenberg.org/ebooks/25730
